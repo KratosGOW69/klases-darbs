@@ -1,0 +1,31 @@
+.container1{
+margin: auto ;
+width: 50%;
+border: 3px solid black;
+padding: 0px;
+align-items: end;
+justify-content:end;
+display: flex;
+
+
+}
+
+.container2{
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+color: solid red;
+font-size: x-large;
+}
+
+.container3{
+    text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: x-large;
+   
+
+
+}
